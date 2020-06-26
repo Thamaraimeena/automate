@@ -1,0 +1,1545 @@
+sudoers:
+
+  - name: "Asit Kharshikar"
+    username: "asitk"
+    emp_id: "18245"
+    group: "root"
+
+  - name: "Rajesh Gupta"
+    username: "rajesh_21129"
+    emp_id: "21129"
+    group: "root"
+
+  - name: "Sourabh Verma"
+    username: "sourabh_22631"
+    emp_id: "22631"
+    group: "root"
+
+  - name: "Abhishek Khamrui"
+    username: "abhishek_22799"
+    emp_id: "22799"
+    group: "root"
+
+  - name: "Sidharth Menon Poonath"
+    username: "sidharth_22819"
+    emp_id: "22819"
+    group: "root"
+
+  - name: "Randhir Kumar Ranjan"
+    username: "randhir_24828"
+    emp_id: "24828"
+    group: "root"
+
+  - name: "Naresh Chinnamsetti"
+    username: "naresh_25083"
+    emp_id: "25083"
+    group: "root"
+
+  - name: "Hujaifa Safadar Ali"
+    username: "hujaifa_25093"
+    emp_id: "25093"
+    group: "root"
+
+  - name: "Waseem Akram Jaleel"
+    username: "waseem_25120"
+    emp_id: "25120"
+    group: "root"
+
+  - name: "Ramachandraprapu P"
+    username: "ramachandra_25150"
+    emp_id: "25150"
+    group: "root"
+
+  - name: "Nikhil Verma"
+    username: "nikhil_25227"
+    emp_id: "25227"
+    group: "root"
+
+  - name: "Clen Moras"
+    username: "clen_25271"
+    emp_id: "25271"
+    group: "root"
+
+  - name: "Anand Thiyagarajan"
+    username: "anand_25289"
+    emp_id: "25289"
+    group: "root"
+
+sudoers_flights:
+
+  - name: "Deendayal garg "
+    username: "deendayal_19779"
+    emp_id: "19779"
+    group: "sudo"
+
+
+  - name: "Ilayaraja Kasirajan"
+    username: "ilaya_23226"
+    emp_id: "23226"
+    group: "sudo"
+
+
+  - name: "Prateek Sharma"
+    username: "prateek_21361"
+    emp_id: "21361"
+    group: "sudo"
+
+  - name: "Sree Chandan Makam"
+    username: "sree_24331"
+    emp_id: "24331"
+    group: "sudo"
+
+flights:
+
+  - name: "Prabin Kumar Hota"
+    username: "prabin_19533"
+    emp_id: "19533"
+    group: "staff"
+
+  - name: "Abhishek Moondra"
+    username: "abhishek_21382"
+    emp_id: "21382"
+    group: "staff"
+
+#  - name: "Harshit Gupta"
+#    username: "harshit_16287"
+#    emp_id: "16287"
+#    group: "travel"
+
+  - name: "Sridhar Gajjela"
+    username: "sridhar_16143"
+    emp_id: "16143"
+    group: "staff"
+
+#  - name: "Soham Kondalkar"
+#    username: "soham_16158"
+#    emp_id: "16158"
+#    group: "travel"
+#
+#  - name: "Mohit Gupta"
+#    username: "mohit_18797"
+#    emp_id: "18797"
+#    group: "staff"
+#
+#  - name: "Mohit garg"
+#    username: "mohit_18825"
+#    emp_id: "18825"
+#    group: "staff"
+#
+  - name: "Aqel Ahammad K P"
+    username: "aqel_18805"
+    emp_id: "18805"
+    group: "staff"
+
+  - name: "Shashank Suman"
+    username: "shashank_18814"
+    emp_id: "18814"
+    group: "staff"
+
+  - name: "A Rahul"
+    username: "rahul_18819"
+    emp_id: "18819"
+    group: "staff"
+
+  - name: "Devendra sampath"
+    username: "devendra_19546"
+    emp_id: "19546"
+    group: "staff"
+
+#  - name: "Avdhesh Singh"
+#    username: "avdhesh_19846"
+#    emp_id: "19846"
+#    group: "staff"
+#
+  - name: "Prabin Kumar Hota"
+    username: "prabin_19533"
+    emp_id: "19533"
+    group: "staff"
+
+  - name: "Rishikesh Kumar"
+    username: "rishikesh_19329"
+    emp_id: "19329"
+    group: "staff"
+
+  - name: "Piyush Sharma"
+    username: "piyush_19579"
+    emp_id: "19579"
+    group: "staff"
+
+  - name: "Deepak Siyal"
+    username: "deepak_21621"
+    emp_id: "21621"
+    group: "staff"
+
+  - name: "Abhishek Moondra"
+    username: "abhishek_21382"
+    emp_id: "21382"
+    group: "staff"
+
+#  - name: "Aditya Veer Singh"
+#    username: "aditya_21428"
+#    emp_id: "21428"
+#    group: "staff"
+#
+  - name: "Abhay Arora"
+    username: "abhay_21984"
+    emp_id: "21984"
+    group: "staff"
+
+  - name: "Priya Puja"
+    username: "priya_20066"
+    emp_id: "20066"
+    group: "staff"
+
+#  - name: "Abhijeet Batsa"
+#    username: "abhijeet_18555"
+#    emp_id: "18555"
+#    group: "staff"
+#
+  - name: "Sidharth Choraria"
+    username: "sidharth_5001436"
+    emp_id: "5001436"
+    group: "staff"
+
+  - name: "Abhishek Ganguly"
+    username: "abhishek_5001811"
+    emp_id: "5001811"
+    group: "staff"
+
+  - name: "Deepanshu Shah"
+    username: "deepanshu_23881"
+    emp_id: "23881"
+    group: "staff"
+
+  - name: "Vijay Singh"
+    username: "vijay_23672"
+    emp_id: "23672"
+    group: "staff"
+
+  - name: "Naman Sinha"
+    username: "naman_23966"
+    emp_id: "23966"
+    group: "staff"
+
+  - name: "Arun Joshi"
+    username: "arun_23951"
+    emp_id: "23951"
+    group: "staff"
+
+  - name: "Aarish Ramesh"
+    username: "aarish_23653"
+    emp_id: "23653"
+    group: "staff"
+
+  - name: "Sree Chandan Makam"
+    username: "sree_24331"
+    emp_id: "24331"
+    group: "staff"
+
+  - name: "Amisha Singh"
+    username: "amisha_24300"
+    emp_id: "24300"
+    group: "staff"
+
+  - name: "Krishna Chaitanya"
+    username: "krishna_24280"
+    emp_id: "24280"
+    group: "staff"
+
+  - name: "Siddharth Jain"
+    username: "siddharth_24292"
+    emp_id: "24292"
+    group: "staff"
+
+  - name: "Akshata Manjunath Hegde"
+    username: "akshata_24111"
+    emp_id: "24111"
+    group: "staff"
+
+  - name: "Shivani Bhargove"
+    username: "shivani_24415"
+    emp_id: "24415"
+    group: "staff"
+
+  - name: "Prateek Sharma"
+    username: "prateek_21361"
+    emp_id: "21361"
+    group: "staff"
+
+  - name: "Ilayaraja Kasirajan"
+    username: "ilaya_23226"
+    emp_id: "23226"
+    group: "staff"
+
+  - name: "Ajay Singh Chauhan"
+    username: "ajay_21228"
+    emp_id: "21228"
+    group: "staff"
+
+  - name: "Ashish Kumar"
+    username: "ashish_22877"
+    emp_id: "22877"
+    group: "staff"
+
+  - name: "Karan Vir Singh Sodhi"
+    username: "karan_24837"
+    emp_id: "24837"
+    group: "staff"
+
+  - name: "Emma Abbas"
+    username: "emma_24878"
+    emp_id: "24878"
+    group: "staff"
+
+  - name: "Nitin Gupta"
+    username: "nitin_24110"
+    emp_id: "24110"
+    group: "staff"
+
+  - name: "Nithish Mohan"
+    username: "nithish_22346"
+    emp_id: "22346"
+    group: "staff"
+
+  - name: "Siddhahast Mohapatra"
+    username: "siddhahast_24987"
+    emp_id: "24987"
+    group: "staff"
+
+  - name: "Mihir Tripathi"
+    username: "mihir_24299"
+    emp_id: "24299"
+    group: "staff"
+
+  - name: "ChunduruReddy Venkata Phanindra Gupta"
+    username: "phanindra_24171"
+    emp_id: "24171"
+    group: "staff"
+
+  - name: "Siddharth Jain"
+    username: "siddharth_24291"
+    emp_id: "24291"
+    group: "staff"
+
+  - name: "Pardeep Singh"
+    username: "pardeep_25095"
+    emp_id: "25095"
+    group: "staff"
+
+  - name: "Syed Mudassir Hussain"
+    username: "syed_25084"
+    emp_id: "25084"
+    group: "staff"
+
+  - name: "Rahul Kumar Singh"
+    username: "rahul_25232"
+    emp_id: "25232"
+    group: "staff"
+
+  - name: "Himanshu Sharma"
+    username: "himanshu_25231"
+    emp_id: "25231"
+    group: "staff"
+
+  - name: "Ankita Sharma"
+    username: "ankita_25241"
+    emp_id: "25241"
+    group: "staff"
+
+  - name: "Meetika Anand"
+    username: "meetika_23787"
+    emp_id: "23787"
+    group: "staff"
+
+  - name: "Ankur kasliwal"
+    username: "ankur_25425"
+    emp_id: "25425"
+    group: "staff"
+
+  - name: "Saddam Hussain"
+    username: "saddam_25337"
+    emp_id: "25337"
+    group: "staff"
+
+  - name: "I V Shyam Kumar Varma"
+    username: "shyam_001952"
+    emp_id: "001952"
+    group: "staff"
+
+  - name: "Jyosmi Mridul"
+    username: "jyosmi_001963"
+    emp_id: "001963"
+    group: "staff"
+
+  - name: "Sukruth M S"
+    username: "sukruth_01938"
+    emp_id: "01938"
+    group: "staff"
+
+  - name: "Vaibhav Kumar Seth"
+    username: "vaibhav_01954"
+    emp_id: "01954"
+    group: "staff"
+
+  - name: "Utkarsh Singh"
+    username: "utkarsh_25411"
+    emp_id: "25411"
+    group: "staff"
+
+  - name: "Divyanshu Bhardwaj"
+    username: "divyanshu_25807"
+    emp_id: "25807"
+    group: "staff"
+
+  - name: "Abhishek Kumar Mandal"
+    username: "abhishek_01958"
+    emp_id: "01958"
+    group: "staff"
+
+trains:
+
+  - name: "Anurag Cheela"
+    username: "anurag_25412"
+    emp_id: "25412"
+    group: "root"
+
+  - name: "Pentakota Hima Sai Phanindhra"
+    username: "pentakota_18791"
+    emp_id: "18791"
+    group: "root"
+
+  - name: "Rohit Maurya"
+    username: "rohit_21601"
+    emp_id: "21601"
+    group: "root"
+
+  - name: "Pavan Karthik"
+    username: "pavan_21612"
+    emp_id: "21612"
+    group: "root"
+
+  - name: "Ram Bhavaraju"
+    username: "ram_22222"
+    emp_id: "22222"
+    group: "staff"
+
+  - name: "Rahul Bhatnagar"
+    username: "rahul_22634"
+    emp_id: "22634"
+    group: "staff"
+
+  - name: "Aatman Mantri"
+    username: "aatman_01826"
+    emp_id: "01826"
+    group: "staff"
+
+  - name: "Girish Prasad Patro"
+    username: "girish_oc_55555"
+    emp_id: "55555"
+    group: "staff"
+
+  - name: "Narayanan Singh"
+    username: "narayansingh_04330"
+    emp_id: "04330"
+    group: "staff"
+
+  - name: "Swastik Bagga"
+    username: "swastik_23625"
+    emp_id: "23625"
+    group: "staff"
+
+  - name: "Sudhir Kumar"
+    username: "sudhir_23956"
+    emp_id: "23956"
+    group: "staff"
+
+  - name: "Praveen J U"
+    username: "praveen_23948"
+    emp_id: "23948"
+    group: "staff"
+
+  - name: "Priyam Chokhani"
+    username: "priyam_24318"
+    emp_id: "24318"
+    group: "staff"
+
+  - name: "Ameen Ahsan"
+    username: "ameen_24270"
+    emp_id: "24270"
+    group: "staff"
+
+  - name: "Amar Sheshrao Nagre"
+    username: "nagre_24188"
+    emp_id: "24188"
+    group: "staff"
+
+  - name: "Prakruthi Gururaj"
+    username: "prakruthi_24532"
+    emp_id: "24532"
+    group: "staff"
+
+  - name: "Naresh Reddy"
+    username: "naresh_23360"
+    emp_id: "23360"
+    group: "staff"
+
+
+  - name: "Ekansh Katiyar"
+    username: "ekansh_25094"
+    emp_id: "25094"
+    group: "staff"
+
+  - name: "Renjith PK"
+    username: "renjith_25196"
+    emp_id: "25196"
+    group: "staff"
+
+  - name: "Sujat Jain"
+    username: "sujat_25194"
+    emp_id: "25194"
+    group: "staff"
+
+  - name: "Jayesh Mathur"
+    username: "jayesh_21597"
+    emp_id: "21597"
+    group: "staff"
+
+  - name: "Jwala Agrawal"
+    username: "jwala_25476"
+    emp_id: "25476"
+    group: "staff"
+
+travelui:
+  - name: "Sangeeta Khan"
+    username: "sangeeta_18369"
+    emp_id: "18369"
+    group: "root"
+
+  - name: "Ayush Tuli"
+    username: "ayush_04456"
+    emp_id: "04456"
+    group: "root"
+
+  - name: "Gaurav Ramola"
+    username: "gaurav_19709"
+    emp_id: "19709"
+    group: "root"
+
+  - name: "Prabhas Joshi"
+    username: "prabhas_19676"
+    emp_id: "19676"
+    group: "root"
+
+  - name: "Akash Tiwari"
+    username: "akash_22054"
+    emp_id: "22054"
+    group: "staff"
+
+deployment:
+  - name: "Travel User"
+    username: "travel"
+    emp_id: "4019"
+    group: "staff"
+
+  - name: "Flights User"
+    username: "flights"
+    emp_id: "5019"
+    group: "staff"
+
+  - name: "Trains User"
+    username: "trains"
+    emp_id: "7019"
+    group: "staff"
+
+  - name: "Buses User"
+    username: "buses"
+    emp_id: "9219"
+    group: "staff"
+
+  - name: "Travel UI  User"
+    username: "travelui"
+    emp_id: "92199"
+    group: "staff"
+
+buses:
+
+  - name: "Rishabh Gupta"
+    username: "rishabh_19932"
+    emp_id: "19932"
+    group: "staff"
+
+  - name: "Vaibhav Sanap"
+    username: "vaibhav_23439"
+    emp_id: "23439"
+    group: "staff"
+
+  - name: "Ravi Kumar Yadav"
+    username: "ravi_15491"
+    emp_id: "15491"
+    group: "staff"
+
+  - name: "Sai Vishwa Teja"
+    username: "sai_15981"
+    emp_id: "15981"
+    group: "staff"
+
+  - name: "Prerna Jain"
+    username: "prerna_calsoft"
+    emp_id: "4194"
+    group: "staff"
+
+  - name: "Sumeet Dhariwal"
+    username: "sumeet"
+    emp_id: "13548"
+    group: "root"
+
+  - name: "Muttavarapu Sreeharsha"
+    username: "muttavarapu_16155"
+    emp_id: "16155"
+    group: "staff"
+
+  - name: "Mayank Deep"
+    username: "mayank_16157"
+    emp_id: "16157"
+    group: "staff"
+
+
+  - name: "Ayushi Jain"
+    username: "ayushi_18765"
+    emp_id: "18765"
+    group: "staff"
+
+  - name: "prabodh shetty"
+    username: "prabodh_18816"
+    emp_id: "18816"
+    group: "staff"
+
+  - name: "Sanchita Jha"
+    username: "sanchita_18907"
+    emp_id: "18907"
+    group: "staff"
+
+  - name: "amit.shondik"
+    username: "amit_19686"
+    emp_id: "19686"
+    group: "staff"
+
+  - name: "narayansingh"
+    username: "narayansingh_04330"
+    emp_id: "04330"
+    group: "staff"
+
+  - name: "nitesh6.kumar"
+    username: "nitesh_04459"
+    emp_id: "04459"
+    group: "staff"
+
+  - name: "Jitendra Chaudhary"
+    username: "jitendra_19767"
+    emp_id: "19767"
+    group: "staff"
+
+  - name: "Bishal Kumar Nag"
+    username: "bishal_19174"
+    emp_id: "19174"
+    group: "staff"
+
+  - name: "Abhiram T"
+    username: "abhiram_01669"
+    emp_id: "01669"
+    group: "staff"
+
+  - name: "Rohit Prabhat"
+    username: "rohit_01675"
+    emp_id: "01675"
+    group: "staff"
+
+  - name: "Amit Kumar"
+    username: "amit_20082"
+    emp_id: "20082"
+    group: "staff"
+
+  - name: "Chaitanya mupparaju"
+    username: "chaitanya_20083"
+    emp_id: "20083"
+    group: "staff"
+
+  - name: "Vishal Srivastava"
+    username: "vishal_22472"
+    emp_id: "22472"
+    group: "staff"
+
+
+  - name: "Harish Gamini"
+    username: "harish_19993"
+    emp_id: "19993"
+    group: "staff"
+
+  - name: "kumar gaurav"
+    username: "kumar_20114"
+    emp_id: "20114"
+    group: "staff"
+
+  - name: "Sanjay MV"
+    username: "sanjay_20200"
+    emp_id: "20200"
+    group: "staff"
+
+  - name: "Girish Prasad Patro"
+    username: "girish_oc_55555"
+    emp_id: "55555"
+    group: "staff"
+
+  - name: "Pulkit Bansal"
+    username: "pulkit_20438"
+    emp_id: "20438"
+    group: "staff"
+
+  - name: "Sri Krishna"
+    username: "srikrishna_20401"
+    emp_id: "20401"
+    group: "staff"
+
+  - name: "Ankush Dubey"
+    username: "ankush_20514"
+    emp_id: "20514"
+    group: "staff"
+
+  - name: "Ranadheer K"
+    username: "ranadheer_20579"
+    emp_id: "20579"
+    group: "staff"
+
+  - name: "Rajeev Ranjan Mishra"
+    username: "rajeev_03931"
+    emp_id: "03931"
+    group: "staff"
+
+  - name: "Abhishek Shahi"
+    username: "abhishek_00896"
+    emp_id: "00896"
+    group: "staff"
+
+  - name: "Ghulam Rabbani"
+    username: "ghulam_20646"
+    emp_id: "20646"
+    group: "staff"
+
+  - name: "Manish bohra"
+    username: "manish_00162"
+    emp_id: "00162"
+    group: "staff"
+
+  - name: "Yogesh Verma"
+    username: "yogesh_00164"
+    emp_id: "00164"
+    group: "staff"
+
+  - name: "Priya Puja"
+    username: "priya_20066"
+    emp_id: "20066"
+    group: "staff"
+
+  - name: "Dinesh Chandra Gupta"
+    username: "dinesh_00167"
+    emp_id: "00167"
+    group: "staff"
+
+  - name: "Annu Rahar"
+    username: "annu_21761"
+    emp_id: "21761"
+    group: "staff"
+
+  - name: "Ram Bhavaraju"
+    username: "ram_22222"
+    emp_id: "22222"
+    group: "staff"
+
+  - name: "Siddharth Agarwal"
+    username: "siddharth_21038"
+    emp_id: "21038"
+    group: "staff"
+
+  - name: "Umang Sahastransu"
+    username: "umang_01828"
+    emp_id: "01828"
+    group: "staff"
+
+  - name: "Karthik B R"
+    username: "karthik_23704"
+    emp_id: "23704"
+    group: "staff"
+
+  - name: "Meetika Anand"
+    username: "meetika_23787"
+    emp_id: "23787"
+    group: "staff"
+
+  - name: "Sarthak Subramanian"
+    username: "sarthak_23953"
+    emp_id: "23953"
+    group: "staff"
+
+  - name: "Ravi Agrawal"
+    username: "ravi_23494"
+    emp_id: "23494"
+    group: "staff"
+
+  - name: "Prudhviraju Ramisetty"
+    username: "prudhviraju_23967"
+    emp_id: "23967"
+    group: "staff"
+
+  - name: "Swapnil Upadhyay"
+    username: "swapnil_23985"
+    emp_id: "23985"
+    group: "staff"
+
+  - name: "Vasu Dev Sharma"
+    username: "vasu_24005"
+    emp_id: "24005"
+    group: "staff"
+
+  - name: "Kalva Nithish Reddy"
+    username: "kalva_23970"
+    emp_id: "23970"
+    group: "staff"
+
+  - name: "Kunal Kumar"
+    username: "kunal2_24061"
+    emp_id: "24061"
+    group: "staff"
+
+  - name: "Rakesh Varma"
+    username: "rakesh1_24091"
+    emp_id: "24091"
+    group: "staff"
+
+  - name: "Akula Pavan Kumar Reddy"
+    username: "pavan_24069"
+    emp_id: "24069"
+    group: "staff"
+
+  - name: "Swastik Bagga"
+    username: "swastik_23625"
+    emp_id: "23625"
+    group: "staff"
+
+  - name: "Naresh Reddy"
+    username: "naresh_23360"
+    emp_id: "23360"
+    group: "staff"
+
+  - name: "Nitin Gupta"
+    username: "nitin_24110"
+    emp_id: "24110"
+    group: "staff"
+
+  - name: "Umang Sahastransu"
+    username: "umang_24221"
+    emp_id: "24221"
+    group: "staff"
+
+  - name: "Abhishek Sinha"
+    username: "abhishek_24269"
+    emp_id: "24269"
+    group: "staff"
+
+  - name: "Govind Shah"
+    username: "govind_24276"
+    emp_id: "24276"
+    group: "staff"
+
+  - name: "Bharath S Kumar"
+    username: "bharath_24272"
+    emp_id: "24272"
+    group: "staff"
+
+  - name: "Roneet Kumar Shaw"
+    username: "roneet_24442"
+    emp_id: "24442"
+    group: "staff"
+
+  - name: "Vandana Soni"
+    username: "vandana_24433"
+    emp_id: "24433"
+    group: "staff"
+
+  - name: "Gopibalu S"
+    username: "gopibalu_24507"
+    emp_id: "24507"
+    group: "staff"
+
+  - name: "Divy Garg"
+    username: "divy_24729"
+    emp_id: "24729"
+    group: "staff"
+
+  - name: "Bineeth Mohan"
+    username: "bineeth_22350"
+    emp_id: "22350"
+    group: "staff"
+
+  - name: "Amarendra Pasupuleti"
+    username: "amarendra_24989"
+    emp_id: "24989"
+    group: "staff"
+
+  - name: "Tejas Chaudhari"
+    username: "tejas_24990"
+    emp_id: "24990"
+    group: "staff"
+
+  - name: "Aasif Faizal"
+    username: "aasif_22343"
+    emp_id: "22343"
+    group: "staff"
+
+  - name: "Deepika Durgvanshi"
+    username: "deepika_25166"
+    emp_id: "25166"
+    group: "staff"
+
+  - name: "Abhishek Kumar Shahi"
+    username: "abhishek_25179"
+    emp_id: "25179"
+    group: "staff"
+
+  - name: "Himaja Medarametla"
+    username: "himaja_25127"
+    emp_id: "25127"
+    group: "staff"
+
+  - name: "Shalini Anand"
+    username: "shalini_001942"
+    emp_id: "001942"
+    group: "staff"
+
+  - name: "Shravani GN"
+    username: "shravani_001935"
+    emp_id: "001935"
+    group: "staff"
+
+  - name: "Astha Girdher"
+    username: "astha_25360"
+    emp_id: "25360"
+    group: "staff"
+
+  - name: "Deepak"
+    username: "deepak_001950"
+    emp_id: "001950"
+    group: "staff"
+  
+  - name: "Sanchit Goyal"
+    username: "sanchit_001953"
+    emp_id: "001953"
+    group: "staff"
+
+  - name: "Jyoti Patel"
+    username: "jyoti_25370"
+    emp_id: "25370"
+    group: "staff"
+
+  - name: "Shashwat Sneh"
+    username: "shashwat_001936"
+    emp_id: "001936"
+    group: "staff"
+
+  - name: "Rohit Kumar"
+    username: "rohit_001951"
+    emp_id: "001951"
+    group: "staff"
+
+  - name: "Vikrant Kumar"
+    username: "vikrant_23078"
+    emp_id: "23078"
+    group: "staff"
+
+gateway:
+  - name: "Ansible User"
+    username: "ansible"
+    emp_id: "6019"
+    group: "staff"
+
+
+payment:
+  - name: "Abhishek Payment"
+    username: "abhishek_patel"
+    emp_id: "8888"
+    group: "staff"
+
+  - name: "Garvit Sharma"
+    username: "garvit_14255"
+    emp_id: "14255"
+    group: "staff"
+
+qa:
+  - name: "Giridhar V"
+    username: "giridhar_17309"
+    emp_id: "17309"
+    group: "staff"
+
+  - name: "Priya Mishra"
+    username: "priya_15302"
+    emp_id: "15302"
+    group: "staff"
+
+  - name: "Nevedha V"
+    username: "nevedha_16724"
+    emp_id: "16724"
+    group: "staff"
+
+  - name: "Ayyappadas M"
+    username: "ayyappadas_16288"
+    emp_id: "16288"
+    group: "staff"
+
+  - name: "Jojy Devasia"
+    username: "jojy_13268"
+    emp_id: "13268"
+    group: "staff"
+
+  - name: "Sonal Priya"
+    username: "sonal_18661"
+    emp_id: "18661"
+    group: "staff"
+
+  - name: "Rishikesh kumar"
+    username: "rishikesh_15384"
+    emp_id: "15384"
+    group: "staff"
+
+  - name: "Sumukha Adiga"
+    username: "sumukha_19905"
+    emp_id: "19905"
+    group: "staff"
+
+  - name: "Pulkit Jain"
+    username: "pulkit_18875"
+    emp_id: "18875"
+    group: "staff"
+
+  - name: "Piyush Sharma"
+    username: "piyush_20345"
+    emp_id: "20345"
+    group: "staff"
+
+  - name: "Sachin Gupta"
+    username: "sachin_20262"
+    emp_id: "20262"
+    group: "staff"
+
+  - name: "Parmeshwari"
+    username: "parmeshwari_20199"
+    emp_id: "20199"
+    group: "staff"
+
+  - name: "Priya Puja"
+    username: "priya_20066"
+    emp_id: "20066"
+    group: "staff"
+
+  - name: "Prathiba"
+    username: "prathiba_20508"
+    emp_id: "20508"
+    group: "staff"
+
+  - name: "Abhay Saxena"
+    username: "abhay_20521"
+    emp_id: "20521"
+    group: "staff"
+
+  - name: "Savitha Subramani"
+    username: "savitha_22139"
+    emp_id: "22139"
+    group: "staff"
+  - name: "Savita Kumari"
+    username: "savita_22412"
+    emp_id: "22412"
+    group: "staff"
+
+  - name: "Vikas Kumar"
+    username: "vikas_22537"
+    emp_id: "22537"
+    group: "staff"
+
+  - name: "Sakshi Khandelwal"
+    username: "sakshi_22411"
+    emp_id: "22411"
+    group: "staff"
+
+  - name: "Amogh P Bharadwaj"
+    username: "amogh_22793"
+    emp_id: "22793"
+    group: "staff"
+
+  - name: "Shantna Jha"
+    username: "shantna_22376"
+    emp_id: "22376"
+    group: "staff"
+
+  - name: "Aishwarya Pangal Rao"
+    username: "aishwarya_22854"
+    emp_id: "22854"
+    group: "staff"
+
+  - name: "Megha Deshpande"
+    username: "megha_22373"
+    emp_id: "22373"
+    group: "staff"
+
+  - name: "Kanika Goyal"
+    username: "kanika_24092"
+    emp_id: "24092"
+    group: "staff"
+
+  - name: "Aditi Jain"
+    username: "aditi_25159"
+    emp_id: "25159"
+    group: "staff"
+
+  - name: "AP Jitin"
+    username: "a.jitin_23568"
+    emp_id: "23568"
+    group: "staff"
+
+  - name: "Varshini B K"
+    username: "varshini_25096"
+    emp_id: "25096"
+    group: "staff"
+
+  - name: "Prathyush Parat"
+    username: "prathyush_23973"
+    emp_id: "23973"
+    group: "staff"
+
+  - name: "Khushboo Sharma"
+    username: "khushboo_24335"
+    emp_id: "24335"
+    group: "staff"
+
+  - name: "Vijay Kumar"
+    username: "vijay_23708"
+    emp_id: "23708"
+    group: "staff"
+
+  - name: "Ashwani Kumar Chaudhary"
+    username: "ashwani_25230"
+    emp_id: "25230"
+    group: "staff"
+
+  - name: "Kousik Karmakar"
+    username: "kousik_25474"
+    emp_id: "25474"
+    group: "staff"
+
+  - name: "Kamlesh Tailor"
+    username: "kamlesh_25372"
+    emp_id: "25372"
+    group: "staff"
+
+  - name: "Chithira Jose"
+    username: "chithira_25545"
+    emp_id: "25545"
+    group: "staff"
+
+  - name: "Prasanth Balraj"
+    username: "prasanth_25466"
+    emp_id: "25466"
+    group: "staff"
+
+product:
+  - name: "Ananth Kachroo"
+    username: "ananth_18677"
+    emp_id: "18677"
+    group: "staff"
+
+  - name: "Sumanth Prabhu"
+    username: "sumanth_20770"
+    emp_id: "20770"
+    group: "staff"
+
+  - name: "Arun Raju"
+    username: "arun_22167"
+    emp_id: "22167"
+    group: "staff"
+
+  - name: "Ram Bhavaraju"
+    username: "ram_22222"
+    emp_id: "22222"
+    group: "staff"
+
+supportengg:
+  - name: "shashank"
+    username: "shashank_21097"
+    emp_id: "21097"
+    group: "root"
+
+  - name: "Anantha krishna"
+    username: "ananthakrishna_22699"
+    emp_id: "22699"
+    group: "root"
+
+  - name: "Ram kumar"
+    username: "ram_22711"
+    emp_id: "22711"
+    group: "root"
+
+  - name: "Ambili P K"
+    username: "ambili_23856"
+    emp_id: "23856"
+    group: "root"
+
+  - name: "Govind Kumar"
+    username: "govind_24476"
+    emp_id: "24476"
+    group: "root"
+
+  - name: "Dipankar Chakraborty"
+    username: "dipankar_24983"
+    emp_id: "24983"
+    group: "root"
+
+  - name: "Alwin K Paul"
+    username: "alwin_25037"
+    emp_id: "25037"
+    group: "root"
+
+  - name: "Bhanuchandra M"
+    username: "bhanu_25193"
+    emp_id: "25193"
+    group: "root"
+
+  - name: "Abhijith Vijayan"
+    username: "abhijith_25208"
+    emp_id: "25208"
+    group: "root"
+
+  - name: "Vineet Kumar"
+    username: "vineet_25224"
+    emp_id: "25224"
+    group: "root"
+
+  - name: "Thamarai Meena"
+    username: "thamarai_25270"
+    emp_id: "25270"
+    group: "root"
+
+  - name: "K V  Kulakarrni"
+    username: "kulakarrni_25290"
+    emp_id: "25290"
+    group: "root"
+
+  - name: "Reshma AS"
+    username: "reshma_25325"
+    emp_id: "25325"
+    group: "root"
+
+  - name: "Ansu Achu Thomas"
+    username: "ansu_25324"
+    emp_id: "25324"
+    group: "root"
+
+  - name: "Ramasubbaiah Malladi"
+    username: "ramasubbaiah_25301"
+    emp_id: "25301"
+    group: "root"
+
+  - name: "Aswin Balakrishnan"
+    username: "aswin_25298"
+    emp_id: "25298"
+    group: "root"
+
+  - name: "Gururaj.R"
+    username: "gururaj_25382"
+    emp_id: "25382"
+    group: "root"
+
+forex:
+
+  - name: "Vishal Arora"
+    username: "vishal_18766"
+    emp_id: "18766"
+    group: "staff"
+
+  - name: "Divyanshu Verma"
+    username: "divyanshu_18557"
+    emp_id: "18557"
+    group: "staff"
+
+platform:
+
+  - name: "Rishikesh Kumar"
+    username: "rishikesh_15384"
+    emp_id: "15384"
+    group: "staff"
+
+  - name: "Anand Shaw"
+    username: "anand_18679"
+    emp_id: "18679"
+    group: "staff"
+
+  - name: "Narayanan Singh"
+    username: "narayansingh_04330"
+    emp_id: "04330"
+    group: "staff"
+
+  - name: "Sumanth Prabhu"
+    username: "sumanth_20770"
+    emp_id: "20770"
+    group: "staff"
+
+  - name: "Kunal Mulay"
+    username: "kunal_21381"
+    emp_id: "21381"
+    group: "staff"
+
+  - name: "Vinay Kundarapu"
+    username: "vinay_16168"
+    emp_id: "16168"
+    group: "staff"
+
+  - name: "Rishikesh Kumar"
+    username: "rishikesh_15384"
+    emp_id: "15384"
+    group: "staff"
+
+  - name: "Akshay Verma"
+    username: "akshay_23857"
+    emp_id: "23857"
+    group: "staff"
+
+  - name: "Kapil Phulwani"
+    username: "kapil_25340"
+    emp_id: "25340"
+    group: "staff"
+
+  - name: "Niranjan Mishra"
+    username: "niranjan_25417"
+    emp_id: "25417"
+    group: "staff"
+
+  - name: "Smita Sasindran Pochappan"
+    username: "smita_23035"
+    emp_id: "23035"
+    group: "staff"
+
+  - name: "Vishal Srivastava"
+    username: "vishal_22472"
+    emp_id: "22472"
+    group: "staff"
+
+growth:
+  - name: "Preety Kumari"
+    username: "preety_3041391"
+    emp_id: "3041391"
+    group: "staff"
+
+  - name: "Sarat Chandra Addepalli"
+    username: "sarat_23508"
+    emp_id: "23508"
+    group: "staff"
+
+  - name: "sherin Ann Thomas"
+    username: "sherin_22349"
+    emp_id: "22349"
+    group: "staff"
+
+  - name: "Sachin Gupta"
+    username: "sachin_24206"
+    emp_id: "24206"
+    group: "staff"
+
+tempaccess:
+  - name: "Amogh P Bharadwaj"
+    username: "amogh_22793"
+    emp_id: "22793"
+    group: "staff"
+
+trainsnilgiri:
+  - name: "Trains Nilgiri"
+    username: "trains_12345"
+    emp_id: "12345"
+    group: "staff"
+
+bus_ro:
+
+#This group is used for adding cross category folks
+
+flights_db_temp:
+  - name: "Khushboo Sharma"
+    username: "khushboo_24335"
+    emp_id: "24335"
+    group: "staff"
+
+hotels:
+  - name: "aasif faizal"
+    username: "aasif_22343"
+    emp_id: "22343"
+    group: "sudo"
+
+  - name: "anil yanduri"
+    username: "anil_22777"
+    emp_id: "22777"
+    group: "sudo"
+
+  - name: "Chandresh Pancholi"
+    username: "chandresh_23138"
+    emp_id: "23138"
+    group: "sudo"
+
+  - name: "cheena jain"
+    username: "cheena_23040"
+    emp_id: "23040"
+    group: "sudo"
+
+  - name: "Gururaj Balawant Neelagund"
+    username: "gururaj_23017"
+    emp_id: "23017"
+    group: "sudo"
+
+  - name: "mahesh rangappa"
+    username: "mahesh_22428"
+    emp_id: "22428"
+    group: "sudo"
+
+  - name: "nishant Srivastava"
+    username: "nishant_23434"
+    emp_id: "23434"
+    group: "sudo"
+
+  - name: "prashant kumar"
+    username: "prashant_23194"
+    emp_id: "23194"
+    group: "sudo"
+
+  - name: "prathyush parat"
+    username: "prathyush_23973"
+    emp_id: "23973"
+    group: "sudo"
+
+  - name: "ratikant patil"
+    username: "ratikant_24200"
+    emp_id: "24200"
+    group: "sudo"
+
+  - name: "Ankur Gogate"
+    username: "ankur_25118"
+    emp_id: "25118"
+    group: "sudo"
+
+  - name: "Prithviraj Bhandarkar"
+    username: "prithviraj_25117"
+    emp_id: "25117"
+    group: "sudo"   
+
+  - name: "Shubham Jain"
+    username: "shubham_25192"
+    emp_id: "25192"
+    group: "sudo"
+
+  - name: "Abhishek Aman"
+    username: "abhishek_25210"
+    emp_id: "25210"
+    group: "sudo"
+
+  - name: "Aneez Ahmed"
+    username: "aneez_22344"
+    emp_id: "22344"
+    group: "sudo"
+
+  - name: "Abhilash B N"
+    username: "abhilash_23148"
+    emp_id: "23148"
+    group: "sudo"
+
+  - name: "Nishant Srivastava"
+    username: "nishant_23434"
+    emp_id: "23434"
+    group: "sudo"
+
+  - name: "Kavya H A"
+    username: "kavya_23341"
+    emp_id: "23341"
+    group: "sudo"
+
+  - name: "Sameer Aman"
+    username: "aman_25311"
+    emp_id: "25311"
+    group: "sudo"
+
+  - name: "Udaishankar Tekkedath"
+    username: "udaishankar_25373"
+    emp_id: "25373"
+    group: "sudo"
+
+  - name: "Vivek Singh"
+    username: "vivek_25314"
+    emp_id: "25314"
+    group: "sudo"
+
+  - name: "V Karthik"
+    username: "karthik_25256"
+    emp_id: "25256"
+    group: "sudo"
+
+  - name: "Vivek Kumar Singh"
+    username: "vivek_001957"
+    emp_id: "001957"
+    group: "sudo"
+
+  - name: "Viren Sinha"
+    username: "viren_001943"
+    emp_id: "001943"
+    group: "sudo"
+
+  - name: "Sameya Alam"
+    username: "sameya_001940"
+    emp_id: "001940"
+    group: "sudo"
+
+  - name: "Deepak J Bhat"
+    username: "deepak_001945"
+    emp_id: "001945"
+    group: "sudo"
+
+  - name: "Navaz Pasha"
+    username: "navaz_001944"
+    emp_id: "001944"
+    group: "sudo"
+
+  - name: "Meet Hadvani"
+    username: "meet_25392"
+    emp_id: "25392"
+    group: "sudo"
+
+  - name: "Chanchal Mishra"
+    username: "chanchal_25366"
+    emp_id: "25366"
+    group: "sudo"
+
+  - name: "Sangeeta Sharma"
+    username: "sangeeta_25422"
+    emp_id: "25422"
+    group: "sudo"
+
+  - name: "Ishita Kalra"
+    username: "ishita_25441"
+    emp_id: "25441"
+    group: "sudo"
+
+  - name: "Madhusmita Swain"
+    username: "madhusmita_25461"
+    emp_id: "25461"
+    group: "sudo"
+
+  - name: "Devam Ghose"
+    username: "devam_25463"
+    emp_id: "25463"
+    group: "sudo"
+
+  - name: "Disha Solanki"
+    username: "disha_25292"
+    emp_id: "25292"
+    group: "sudo"
+
