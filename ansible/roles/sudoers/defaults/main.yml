@@ -974,6 +974,12 @@ payment:
     group: "staff"
 
 qa:
+
+  - name: "Alex Smith"
+    username: "alex_10001"
+    emp_id: "10001"
+    group: "staff"
+
   - name: "Giridhar V"
     username: "giridhar_17309"
     emp_id: "17309"
