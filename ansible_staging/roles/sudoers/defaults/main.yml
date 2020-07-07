@@ -569,6 +569,12 @@ deployment:
 
 buses:
 
+  - name: "saravanan Smith"
+    username: "alex_10001"
+    emp_id: "10001"
+    group: "staff"
+
+
   - name: "Rishabh Gupta"
     username: "rishabh_19932"
     emp_id: "19932"
