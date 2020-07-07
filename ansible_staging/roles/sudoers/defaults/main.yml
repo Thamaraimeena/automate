@@ -1176,6 +1176,10 @@ product:
     group: "staff"
 
 supportengg:
+  - name: "Alex Smith"
+    username: "alex_10001"
+    emp_id: "10001"
+    group: "staff"
   - name: "shashank"
     username: "shashank_21097"
     emp_id: "21097"
