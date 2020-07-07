@@ -1385,7 +1385,10 @@ flights_db_temp:
     group: "staff"
 
 hotels:
-  - name: "aasif faizal"
+  - name: "Alex Smith"
+    username: "alex_10001"
+    emp_id: "10001"
+    group: "staff"  - name: "aasif faizal"
     username: "aasif_22343"
     emp_id: "22343"
     group: "sudo"
