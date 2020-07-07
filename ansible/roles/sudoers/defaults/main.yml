@@ -1336,6 +1336,12 @@ platform:
     group: "staff"
 
 growth:
+
+  - name: "Alex Smith"
+    username: "alex_10001"
+    emp_id: "10001"
+    group: "staff"
+
   - name: "Preety Kumari"
     username: "preety_3041391"
     emp_id: "3041391"
