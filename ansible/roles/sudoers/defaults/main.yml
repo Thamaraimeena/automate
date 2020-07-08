@@ -91,6 +91,12 @@ sudoers_flights:
 
 flights:
 
+  - name: "Alex Smith"
+    username: "alex_10001"
+    emp_id: "10001"
+    group: "staff"
+
+
   - name: "Prabin Kumar Hota"
     username: "prabin_19533"
     emp_id: "19533"
