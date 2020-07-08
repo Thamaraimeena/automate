@@ -403,6 +403,11 @@ trains:
     emp_id: "10001"
     group: "staff"
 
+  - name: "Alex Smith"
+    username: "alex_10001"
+    emp_id: "10001"
+    group: "staff"
+
 
   - name: "Anurag Cheela"
     username: "anurag_25412"
