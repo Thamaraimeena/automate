@@ -90,6 +90,12 @@ sudoers_flights:
     group: "sudo"
 
 flights:
+     
+-  name: "Kantha lakshmi K"
+   username: "kantha_2534"
+   emp_id: "2534"
+   group: "staff"
+     
 
   - name: "Prabin Kumar Hota"
     username: "prabin_19533"
