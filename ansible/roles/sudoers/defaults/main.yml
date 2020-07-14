@@ -980,6 +980,12 @@ payment:
     group: "staff"
 
 qa:
+     
+-  name: "kantha"
+   username: "kantha_123"
+   emp_id: "123"
+   group: "staff"
+     
 
   - name: "Alex Smith"
     username: "alex_10001"
