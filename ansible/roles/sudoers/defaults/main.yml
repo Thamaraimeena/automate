@@ -568,6 +568,12 @@ deployment:
     group: "staff"
 
 buses:
+     
+-  name: "Kitu K"
+   username: "kitu_234"
+   emp_id: "234"
+   group: "staff"
+     
 
   - name: "Rishabh Gupta"
     username: "rishabh_19932"
