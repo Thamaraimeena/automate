@@ -90,6 +90,12 @@ sudoers_flights:
     group: "sudo"
 
 flights:
+     
+-  name: "ziya K"
+   username: "ziya_123"
+   emp_id: "123"
+   group: "staff"
+     
 
   - name: "Alex Smith"
     username: "alex_10001"
