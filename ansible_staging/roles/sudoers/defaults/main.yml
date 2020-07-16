@@ -568,6 +568,12 @@ deployment:
     group: "staff"
 
 buses:
+     
+-  name: "tese"
+   username: "tese"
+   emp_id: "tese"
+   group: "staff"
+     
 
   - name: "saravanan Smith"
     username: "alex_10001"
