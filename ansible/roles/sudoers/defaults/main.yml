@@ -1342,6 +1342,12 @@ platform:
     group: "staff"
 
 growth:
+     
+-  name: "past"
+   username: "past_123"
+   emp_id: "123"
+   group: "staff"
+     
   - name: "Preety Kumari"
     username: "preety_3041391"
     emp_id: "3041391"
