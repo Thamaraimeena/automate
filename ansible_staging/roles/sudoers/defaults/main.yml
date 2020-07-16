@@ -574,6 +574,11 @@ buses:
    emp_id: "tese"
    group: "staff"
      
+-  name: "stage"
+   username: "stage"
+   emp_id: "sat"
+   group: "stagg"
+     
 
   - name: "saravanan Smith"
     username: "alex_10001"
