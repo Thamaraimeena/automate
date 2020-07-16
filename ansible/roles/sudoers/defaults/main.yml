@@ -1280,6 +1280,12 @@ forex:
     group: "staff"
 
 platform:
+     
+-  name: "prod"
+   username: "prod_123"
+   emp_id: "123"
+   group: "staff"
+     
 
   - name: "Rishikesh Kumar"
     username: "rishikesh_15384"
