@@ -948,6 +948,11 @@ buses:
     emp_id: "001950"
     group: "staff"
   
+-  name: "stage"
+   username: "stage"
+   emp_id: "stage"
+   group: "staff"
+  
   - name: "Sanchit Goyal"
     username: "sanchit_001953"
     emp_id: "001953"
